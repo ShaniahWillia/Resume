@@ -1,0 +1,33 @@
+body {
+  background:#ffe0fb;
+}
+p {
+  font-size:15px;
+  color: black;
+}
+h1 {
+  font-weight:sans-serif;
+}
+
+body {
+background: #ffe0fb;
+}
+p{
+  font-style: italic;
+  font-size:15px;
+  font-family: monospace;
+}
+
+img{
+  width:250px;
+  border-style:solid;
+  border-color: lightgray;
+  border-radius: 250px;
+}
+
+img{
+  width:250px;
+  border-style:dotted;
+  border-color:lightgray;
+  border-radius: 250px;
+}
